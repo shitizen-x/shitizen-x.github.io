@@ -69,7 +69,7 @@ function updateDropdown() {
 function setCookie(name, value) {
     Cookies.set(name, value, {
         expires: 365,
-        domain: '.xhh.im',
+        domain: '.www.xhh.im',
         secure: true
     });
 };
